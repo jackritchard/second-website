@@ -1,0 +1,93 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(download.img);
+}
+nav {
+    background-color: black;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 20px;
+    border-bottom: solid 3px white;
+    text-align: center;
+    
+    
+}
+
+
+
+a {
+    text-decoration: none;
+    color: oldlace;
+    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px;
+    
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 25px;
+    position: fixed;
+    top: -15px;
+    
+}
+
+
+
+.total {
+    display: flex;
+    
+}
+
+form {
+    background-color: violet;
+    border: solid 2px black;
+    border-radius: 40%;
+    text-align: center;
+    height:90px;
+    padding: 15px;
+    width: 200px;
+    margin-top: 150px;
+    margin-left: 20px;
+    
+
+}
+button {
+    margin-top: 3px;
+    background-color: black;
+    color: white;
+    border-radius: 40px;
+}
+
+main {
+    
+    width: 100%;
+    margin-left: 20%;
+    margin-top: 60px;
+    margin-bottom: 40px;
+    margin-right: 20%;
+  
+    
+}
+img{
+    width: auto;
+    height: auto;
+    border: 3px solid white;
+}
+.text {
+    text-align: center;
+    padding: 5%;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+    border: inset 5px black;
+    background-color: violet;
+    
+
+    
+}
+
+
+    
+    
